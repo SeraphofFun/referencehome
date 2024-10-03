@@ -1,0 +1,11 @@
+﻿  referencehome.cpp
+C:\Users\ASUS\source\repos\referencehome\referencehome\referencehome.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ASUS\source\repos\referencehome\referencehome\referencehome.cpp(19,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ASUS\source\repos\referencehome\referencehome\referencehome.cpp(30,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ASUS\source\repos\referencehome\referencehome\referencehome.cpp(110,1): warning C4172: returning address of local variable or temporary: temp
+C:\Users\ASUS\source\repos\referencehome\referencehome\referencehome.cpp(155,1): warning C4172: returning address of local variable or temporary: temp
+C:\Users\ASUS\source\repos\referencehome\referencehome\referencehome.cpp(72,1): warning C4172: returning address of local variable or temporary: temp
+C:\Users\ASUS\source\repos\referencehome\referencehome\referencehome.cpp(173,1): warning C4172: returning address of local variable or temporary: temp
+C:\Users\ASUS\source\repos\referencehome\referencehome\referencehome.cpp(302,1): warning C4172: returning address of local variable or temporary: temp
+C:\Users\ASUS\source\repos\referencehome\referencehome\referencehome.cpp(256,1): warning C4172: returning address of local variable or temporary: temp
+  referencehome.vcxproj -> C:\Users\ASUS\source\repos\referencehome\x64\Debug\referencehome.exe
